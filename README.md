@@ -2,10 +2,10 @@
 
 A collection of case studies, white papers, articles, books, and other resources to help prepare you for a Google Cloud Platform certification or two.
 
-[Cloud Certification Forum on Google Cloud Connect](https://www.cloudconnect.goog/community/partners/training-credentials/cloud-certification-forum)
-[Deconstructing a Customer Case: Cloud Architect Exam](https://drive.google.com/file/d/0B_Lz_rr26YL8enV6SzRWTVRyWm8/view) - Customer case analysis on JencoMart, MountKirk Games, Dress4Win and TerramEarth
-[Cloud Architect Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-architect)
-[Qwiklabs GCP Quest](https://google.qwiklabs.com/catalog?locale=en)
+* [Cloud Certification Forum on Google Cloud Connect](https://www.cloudconnect.goog/community/partners/training-credentials/cloud-certification-forum)
+* [Deconstructing a Customer Case: Cloud Architect Exam](https://drive.google.com/file/d/0B_Lz_rr26YL8enV6SzRWTVRyWm8/view) - Customer case analysis on JencoMart, MountKirk Games, Dress4Win and TerramEarth
+* [Cloud Architect Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-architect)
+* [Qwiklabs GCP Quest](https://google.qwiklabs.com/catalog?locale=en)
 
 If you interested in a particular topic, a good place to start is the [Tutorials and Solutions](https://cloud.google.com/docs/tutorials) section of `cloud.google.com`. Search by keyword or browse around. Otherwise, I've currated some of the articles I think would be helpful and added them to the lists below.
 
