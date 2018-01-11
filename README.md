@@ -36,4 +36,6 @@ If you interested in a particular topic, a good place to start is the [Tutorials
 * [Part 4 – Planning and Executing the Migration](https://blog.evernote.com/tech/2017/02/08/part-4-planning-executing-migration/)
 * [Part 5 – Conclusion and Future](https://blog.evernote.com/tech/2017/02/08/part-5-conclusion-future/)
 
+## Contribute
 
+Have you come across resources that would help others prepare for the exams? Submit a pull request!
