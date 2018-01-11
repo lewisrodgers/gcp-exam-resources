@@ -1,6 +1,6 @@
 # Google Cloud Platform certification exam resources
 
-A collection of case studies, white papers, articles, books, and other resources to help prepare you for a Google Cloud Platform certifications.
+A collection of case studies, white papers, articles, books, and other resources to help prepare you for a Google Cloud Platform certification or two.
 
 [Cloud Certification Forum on Google Cloud Connect](https://www.cloudconnect.goog/community/partners/training-credentials/cloud-certification-forum)
 [Deconstructing a Customer Case: Cloud Architect Exam](https://drive.google.com/file/d/0B_Lz_rr26YL8enV6SzRWTVRyWm8/view) - Customer case analysis on JencoMart, MountKirk Games, Dress4Win and TerramEarth
