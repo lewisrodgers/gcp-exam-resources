@@ -11,6 +11,7 @@ If you interested in a particular topic, a good place to start is the [Tutorials
 
 ## General
 
+* [Google Cloud White Papers](https://cloud.google.com/whitepapers/)
 * [Building Scalable and Resilient Web Applications on Google Cloud Platform](https://cloud.google.com/solutions/scalable-and-resilient-apps)
 * [Site Reliability Engineering, e-book](https://landing.google.com/sre/book.html)
 * [How to Design a Disaster Recovery Plan](https://cloud.google.com/solutions/designing-a-disaster-recovery-plan)
