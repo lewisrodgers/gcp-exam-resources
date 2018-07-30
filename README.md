@@ -7,7 +7,7 @@ A collection of case studies, white papers, articles, books, and other resources
 * [Cloud Architect Practice Exam](https://cloud.google.com/certification/practice-exam/cloud-architect)
 * [Qwiklabs GCP Quest](https://google.qwiklabs.com/catalog?locale=en)
 
-If you interested in a particular topic, a good place to start is the [Tutorials and Solutions](https://cloud.google.com/docs/tutorials) section of `cloud.google.com`. Search by keyword or browse around. Otherwise, I've currated some of the articles I think would be helpful and added them to the lists below.
+If you're interested in a particular topic, a good place to start is the [Tutorials and Solutions](https://cloud.google.com/docs/tutorials) section of `cloud.google.com`. Search by keyword or browse around. Otherwise, I've curated some of the articles I think would be helpful and added them to the lists below.
 
 ## General
 
